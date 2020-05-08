@@ -1,0 +1,12 @@
+name: AB_testing
+title: AB_testing
+username:
+account: mohsenbakhshizadeh
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1098049
+bundleId: 3119132
+url: https://mohsenbakhshizadeh.shinyapps.io/AB_testing/
+when: 1588911600.20268
+asMultiple: FALSE
+asStatic: FALSE
